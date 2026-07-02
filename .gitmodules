@@ -1,6 +1,0 @@
-[submodule "GP2040-CE"]
-	path = GP2040-CE
-	url = https://github.com/noemk2/GP2040-CE.git
-[submodule "pico/pico-sdk"]
-	path = pico/pico-sdk
-	url = https://github.com/raspberrypi/pico-sdk.git
